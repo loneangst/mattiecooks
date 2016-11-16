@@ -87,14 +87,14 @@ div#body{
 div#body div{
 	width: 960px;
 	margin:0 auto;
-}	
+}
 /**Start of Featured**/
 div#body  div#featured{
 	width: 960px;
 	position: relative;
 	top:-50px;
 	margin-bottom: 200px;
-}	
+}
 div#body  div#featured ul{
 	list-style-type: none;
 	margin:0 0 0 15px;
@@ -161,7 +161,7 @@ div#body  div#featured ul li.last{
 }
 div#body  div#featured ul li.last h3{
 	font-family: Arial;
-	font-size: 73px;
+	font-size: 25px;
 	color: #dec0c1;
 	line-height: 30px;
 	margin:45px 0 0 0;
